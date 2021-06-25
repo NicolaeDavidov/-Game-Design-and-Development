@@ -9,3 +9,7 @@ This module has taught me about the design and development of games within an ex
 
 For this module we had to work in a group in order to create an interactive game in Unity 3D. 
 Our game is a first person tower defense where the player has to the enemy waves in order to win. I was tasked with creating the character movement and the level design.
+
+Here is some gameplay of our finished product.
+
+https://streamable.com/4qhdpi
